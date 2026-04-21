@@ -1,0 +1,28 @@
+# Core LangChain ecosystem
+
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# LLM integrations
+
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+
+# Environment & utilities
+
+python-dotenv
+tiktoken
+requests
+
+# Vector store (for RAG)
+
+faiss-cpu
+
+# API (optional)
+
+fastapi
+uvicorn
