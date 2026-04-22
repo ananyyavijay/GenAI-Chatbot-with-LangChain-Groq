@@ -11,7 +11,8 @@ langchain-openai
 langchain-google-genai
 langchain-groq
 langchain-mistralai
-
+langchain_huggingface
+langchain_ollama
 # Environment & utilities
 
 python-dotenv
