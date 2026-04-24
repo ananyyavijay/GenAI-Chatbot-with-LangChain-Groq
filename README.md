@@ -24,4 +24,4 @@ A conversational AI chatbot built using LangChain and an LLM API to generate con
 ## Run Locally
 ```bash
 pip install -r requirements.txt
-python app.py
+python ui_chatbot.py
